@@ -4,8 +4,25 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
+
+# to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
+content/.obsidian/plugins
+content/.obsidian/icons
+
+# OR only to exclude workspace cache
+content/.obsidian/workspace.json
+
+# to exclude workspace cache specific to mobile devices
+content/.obsidian/workspace-mobile.json
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
+
+# Other files
+*.mp4
+*.wmv
