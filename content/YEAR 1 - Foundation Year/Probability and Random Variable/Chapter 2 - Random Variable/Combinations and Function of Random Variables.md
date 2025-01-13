@@ -56,3 +56,11 @@ source:
 > $$
 > Var(\bar{X}) = \frac{\sigma^2}{n}
 > $$
+
+# Nonlinear Functions
+> [!Info]
+> - Basically it is:
+> $$
+> Y = g(X)
+> $$
+> - and $g(X)$ can be $X^2$, $\sqrt{X}$, $e^X$
