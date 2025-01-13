@@ -7,10 +7,8 @@ creation date: 11-25-2024, 14:20:13
 source:
 ---
 ----------------
->[!Statement in Mathematical]
->*"Given a set of items, each with a weight and a value, determine which items to include in the collection so that the total weight is less than or equal to a given limit and the total value is as large as possible."*
 
-> [!Statement in Competitve Programming]
+> [!Question]
 > *"Given a set of **n** items, each weight **W** and value is **V**, maximize the sum of the values of the items in the knapsack so that the sum of the weights is less than or equal to the knapsack's capacity **S**"*
 # Solution CP
 - By far, I only know solution using[[Dynamic Programming| DP]], thanks to [Nguyen Nham Tan](https://www.facebook.com/Ton2808)!

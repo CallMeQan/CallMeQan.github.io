@@ -9,7 +9,7 @@ source:
 # Lý thuyết duma dài vcl
 ## Basic Linear Combination
 >[!Info]
->- Based on [[Linear Combination of Expectation and Variance|previous linear basic stuff]], with given [[The Normal Distribution|N(u, o^2)]] and constants $a$ and $b$:
+>- Based on [[Combinations and Function of Random Variables|previous linear basic stuff]], with given [[The Normal Distribution|N(u, o^2)]] and constants $a$ and $b$:
 >$$
 >Y = aX+b \sim{N(a\mu{+b},a^{2}\sigma^{2})}
 >$$

@@ -8,7 +8,7 @@ source:
 
 # Linear Function
 > [!Info]
-> - If $X$ is a random and $Y = aX + b$, then:
+> - If $X$ is a random and $Y = aX + b$, then their [[The Variance and Standard Deviation of Random Variable|variance]] and [[The Expectation of a Random Variable|expectation]] are:
 > $$
 > E(Y) = aE(X) + b
 > $$

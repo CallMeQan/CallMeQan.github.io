@@ -35,13 +35,13 @@ False
 >[!Explanation]
 >We have person A, B, and C
 >First scenario: 
->- A is son of B, 
->- B is son of C 
+>- A is child of B, 
+>- B is child of C 
 >- => A is related to C
 >
 >Second scenario: 
 >- A is the same B, 
->- B is son of C 
+>- B is child of C 
 >- => A mostly not related to C
 
 ```python

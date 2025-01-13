@@ -7,7 +7,7 @@ source:
 ----------------
 <center><h1>Không thi, không được dạy trên lớp, đây chỉ tìm hiểu thêm thôi</h1></center>
 >[!Equation]
->- Random variable $X$, with finite [[The Expectation of a Random Variable| expectation]] $\mu$ and [[The Variance and Standard Deviation of Random Variable|variance]] $\sigma^{2}$
+>- [[Random Variable]] $X$, with finite [[The Expectation of a Random Variable| expectation]] $\mu$ and [[The Variance and Standard Deviation of Random Variable|variance]] $\sigma^{2}$
 >$$
 P(|X - \mu| \geq k\sigma) \leq \frac{1}{k^2}, \quad k > 0
 $$
