@@ -5,6 +5,8 @@ creation date: 2025-01-06T18:40:03
 source:
 ---
 ----------------
+[[#Calculation|Teleport to calculation]]
+
 # Binomial Distribution
 > [!Info]
 > - Consisting of:
@@ -41,3 +43,10 @@ source:
 > $$
 > - **An experiment that only have 2 outcomes is a** ***Bernoulli trial***
 
+# Calculation
+## Bấm máy Casio fx-580VN
+- `Menu` + `7`:
+	- `4`: tính **PMF**, có thể tính `List`(một lúc nhiều giá trị $x$ nhưng cùng $p$ và $n$) hoặc tính `Variable` (Đơn độc một giá trị $x$)
+	- `Down Arrow` + `1`: tính [[Geometric Distribution]], nhập giá trị `List` hoặc `Variable`
+- Tính $P(X\geq{x})$ chỉ là tính tổng của $P(x)$ đến $P(n)$ thôi. Và ngược lại.
+- Riêng [[Negative Binomial Distribution]] phải **tự nhớ công thức**

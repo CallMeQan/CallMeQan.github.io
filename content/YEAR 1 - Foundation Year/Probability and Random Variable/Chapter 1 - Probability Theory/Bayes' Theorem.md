@@ -13,7 +13,7 @@ source:
 > 
 > Which:
 > - $P(B|A)$ is is the probability of event $P(B)$ while $P(A)$ has occurred
-> - $P(B)$ is the probability of event $B$
+> - $P(B)$ is the result of [[Law of Total Probability]]
 > - $P(A)$ is the probability of event $A$
 
 ### Chứng minh công thức

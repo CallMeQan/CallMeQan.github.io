@@ -19,6 +19,7 @@ $$
 E(X) = \int_a^b{xf(x)dx}
 $$
 # Properties
- - Expectation is **linear**$$E_x[\alpha{f(x)}+\beta{g(x)}] = \alpha{E_x[f(x)]} + \beta{E_x[f(x)]}$$
-- If $X$ and $Y$ is **independent**, then $$E_{X,Y}(xy) = E_X(x)E_Y(y)$$
--  **Jensen's inequality**: if $f(x)$ is convex, then$$f(E_X[x])\leqslant{E_X[f(x)]}$$
+ - Expectation is **linear**. Which is [[Combinations and Function of Random Variables|explain here]]
+ - If $X$ and $Y$ is **independent**, then $$E(XY) = E(X)E(Y)$$
+ - **Jensen's inequality**: if $f(x)$ is convex, then$$f(E_X[x])\leqslant{E_X[f(x)]}$$
+# Type of questions

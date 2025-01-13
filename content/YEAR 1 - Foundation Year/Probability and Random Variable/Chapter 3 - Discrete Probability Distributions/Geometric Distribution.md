@@ -5,6 +5,7 @@ creation date: 2025-01-06T19:20:14
 source:
 ---
 ----------------
+[[Binomial Distribution#Calculation|Calculation at Binomial section]]
 > [!Important]
 > - Nếu [[Binomial Distribution#Bernoulli Random Variable|dãy Bernoulli]] trả về giá trị **success** tại vị trí $x^{th}$ thì $x-1$ vị trí trước đó là giá trị **fail**
 ## Probability of success on $x^{th}$
