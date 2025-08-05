@@ -8,3 +8,7 @@ category: 'Other'
 draft: false 
 lang: 'en'
 ---
+
+I took template from [Fuwari](https://github.com/saicaca/fuwari) to host my own personal blog website.
+
+This website is about me and my blog saved here
