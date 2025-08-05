@@ -3,7 +3,7 @@ title: Phần 1 - Mùa thi THPT 2024
 published: 2025-08-04
 description: 'Một mùa thi đầy chông gai và tiếng cười'
 image: ''
-tags: [University, Life]
+tags: [university, life]
 category: 'University'
 draft: false 
 lang: 'vn'
@@ -18,7 +18,8 @@ Mình hồi đó một tuần 7 ngày thì hết 6 ngày đi luyện thi buổi 
 Ngoài ra trên trường mình những tháng cuối năm được ngồi kế anh chàng BKU chill guy Tiến Thành nên 3-4 tháng cuối ngồi xamlon với nhau và thách đố lẫn nhau những bài toán ảo ma mà chả ra thi, không những thế tụi mình được ngồi cuối lớp nên thầy cô chả quan tâm với gọi tụi mình.
 
 Mình đã từng nói:
-```
+
+```txt
 Tôi yêu toán
 Từ bé loga, hàm số cho tới bé số phức max min
 Đặc biệt là em toán hình
@@ -28,6 +29,7 @@ Tôi đắm chìm trong cơn nghiện toán hình
 Tôi muốn cưới toán hình làm vợ
 Tôi nguyện làm trăm bài hình mỗi ngày
 ```
+
 ## Trong lớp luyện thi
 
 Lúc mình luyện thi tại thăng long thì mình rất sợ bị gọi tên lên bản làm mấy bài đại số, đặc biệt là số phức bởi mình chả hiểu gì. Hồi đó mình được lên lớp cao và đi nhanh hơn là `12T5A` nhưng mà bị cái là mình chỉ giỏi hình học thôi, còn mấy bài đại số thì randomly 50-50 đúng sai.
@@ -58,7 +60,7 @@ Vừa bước ra khỏi phòng thi sáng môn Lý thì mình nói ba mình rằn
 | ------------- | ------------- | ------------- | ------------- |
 |Học bổng? | 25% | 5% | No|
 |Độ nổi tiếng | Vô hình, ẩn danh | Top thế giới :)))) | Tứ đại bổ túc??|
-|Học phí| 40.900.000đ/HK | 42.000.000đ/HK | 31.600.000đ/HK | 
+|Học phí| 40.900.000đ/HK | 42.000.000đ/HK | 31.600.000đ/HK |
 |Chât lượng| Không biết | Nhiều tiến sĩ và phó giáo sư | Dạy theo kiểu công nghiệp à? |
 
 Thế là cuối cùng **mình chọn VGU** vì có học bổng và được đi đức :))

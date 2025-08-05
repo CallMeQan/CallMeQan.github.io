@@ -2,6 +2,10 @@
 "recommendations": [
     "biomejs.biome",
     "astro-build.astro-vscode",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "svelte.svelte-vscode",
+    "christian-kohler.npm-intellisense",
+    "davidanson.vscode-markdownlint",
+    "yoavbls.pretty-ts-errors"
 ]
 }
