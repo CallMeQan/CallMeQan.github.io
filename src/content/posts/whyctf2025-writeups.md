@@ -1,9 +1,9 @@
 ---
-title: whyctf2025-writeups
+title: Why2025 CTF - Lazy Code 1 and 2 Writeups
 published: 2025-08-11
 description: 'I did alot in this but only write 2 writeups about rev'
 image: ''
-tags: [CTF, Coding, University]
+tags: [ctf, coding, university]
 category: 'CTF'
 draft: false 
 lang: 'en'
@@ -11,7 +11,7 @@ lang: 'en'
 
 ## Lazy Code 1.0
 
-This chall give us a `lazy-code-1.exe` file, so I straight up open dotPeek from Jetbrains to see inside. Turn out there're nothing here and dotPeek unable to decompile this.
+This chall give us a `lazy-code-1.exe` file, so I straight up open dotPeek from Jetbrains to see it inside. Turn out there is nothing here and dotPeek unable to decompile this.
 
 So I open the Ghidra to see inside, right at main:
 
@@ -39,7 +39,7 @@ Analyzing this we find it slow down by `sleep(sleeping_time)`.
 
 **So the direction here is to skip the function `sleep`!**
 
-I did some google search and come by a tool name [x64dgb](https://x64dbg.com/). This tool support Windows debugging and disassembler! I put the file into this, scroll entire page alot until I found the code:
+I did some Google search and came by a tool name [x64dgb](https://x64dbg.com/). This tool supports Windows debugging and disassembling! I put the file into this, scrolled entire page alot until I found the code:
 
 ![Source code in x64dbg](./lazy-code-1-1.png)
 
@@ -60,7 +60,7 @@ Oh, remember to set a breakpoint at almost the end of main function, right befor
 ## Lazy Code 2.0
 
 :::tip
-The continue version is easier than first one if you are familiar with Linux Reversing than Windows Reversing.
+The second version is easier than the first one if you are more familiar with Linux Reversing than Windows Reversing.
 :::
 
 Just put the `lazy-code-2` in Linux or WSL like me, then run `gdb ./lazy-code-2`.
