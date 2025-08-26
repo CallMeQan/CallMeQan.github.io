@@ -77,10 +77,6 @@ Here we found this address `0x000055555555526b` is calling sleep function. So we
 
 ```bash
 (gdb) set {unsigned char} 0x55555555526b = 0x90
-(gdb) set {unsigned char} 0x55555555526c = 0x90
-(gdb) set {unsigned char} 0x55555555526d = 0x90
-(gdb) set {unsigned char} 0x55555555526e = 0x90
-(gdb) set {unsigned char} 0x55555555526f = 0x90
 ```
 
 Then type `continue` and you get the flag!
