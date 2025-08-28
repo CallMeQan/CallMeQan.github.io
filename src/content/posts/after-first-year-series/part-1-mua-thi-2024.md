@@ -1,6 +1,7 @@
 ---
 title: Phần 1 - Mùa thi THPT 2024
 published: 2025-08-04
+updated: 2025-08-27
 description: 'Một mùa thi đầy chông gai và tiếng cười'
 image: ''
 tags: [university, life]
@@ -14,6 +15,8 @@ lang: 'vn'
 Vào mùa thi đại học (THPT) 2024, mình đã bắt đầu đi học luyện thi từ trước đó hơn 2 tháng, chính xác là vào tháng 4 mình đã bắt đầu luyện thi rồi. Marie Curie khi đó hết tháng 5 mới xong chương trình 12, sau đó vào giai đoạn luyện thi thì học sinh Marie Curie đi qua trường THCS Lê Lợi ở Lý Chính Thắng học tạm vì Marie Curie được chọn làm điểm thi cho tụi cấp 2 lên cấp 3.
 
 Mình hồi đó một tuần 7 ngày thì hết 6 ngày đi luyện thi buổi tối rồi. Tối thứ 3-5-7 đi học toán, tối thứ 4 với sáng thứ 7 đi học Lý, còn trưa chủ nhật là học toán nâng cao, mình đặt hết niềm tin mình vào [Trung tâm văn hóa bồi dưỡng Thăng Long](https://thangtienthanglong.edu.vn/)
+
+![Lớp thăng long](./thang-long.jpg)
 
 Ngoài ra trên trường mình những tháng cuối năm được ngồi kế anh chàng BKU chill guy Tiến Thành nên 3-4 tháng cuối ngồi xamlon với nhau và thách đố lẫn nhau những bài toán ảo ma mà chả ra thi, không những thế tụi mình được ngồi cuối lớp nên thầy cô chả quan tâm với gọi tụi mình.
 

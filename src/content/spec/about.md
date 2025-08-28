@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Hi, I'm Chau Minh Q(u)an!</h2>
 
-I've been learning to code for over 8 years as a hobby. I started with Java, then moved on to PHP, Python, and JavaScript, and I'm currently working with Python and Go!
+I've been learning to code since grade 7 as a hobby. I started with Java, then moved on to HTML, CSS, Javascript then C#, and I'm currently working with Python and Go!
 
 ---
 
