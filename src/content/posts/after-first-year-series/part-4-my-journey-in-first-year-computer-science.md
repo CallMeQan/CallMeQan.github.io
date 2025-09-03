@@ -1,5 +1,5 @@
 ---
-title: Phần 4: Hành trình học tập trong năm 1
+title: Phần 4 - Hành trình học tập trong năm 1
 published: 2025-09-03
 description: 'Chỉ nói về học tập, mấy thứ khác nói ở bài khác'
 image: ''
