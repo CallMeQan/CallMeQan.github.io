@@ -1,11 +1,11 @@
 ---
-title: Phần 3 - Đến với VGU
+title: Phần 3 - Đến với KTX VGU
 published: 2025-08-26
 description: 'Ký túc xá và bạn bè'
 image: ''
 tags: [university, life]
 category: 'University'
-draft: false 
+draft: false
 lang: 'vn'
 ---
 
@@ -54,3 +54,9 @@ Lúc đó mình với Minh đi vòng vòng quanh trường từ ktx cam đến c
 Bị cái là ít sách, toàn sách cổ không, nhưng là có bộ sách [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) tuyệt vời của ông Donald Knuth nên bù lại cũng được (hình như ít ai đọc). Ngoài ra thì tầng 3 có nguyên khu thesis của các anh chị năm trước đi ra nên lấy nó ra đọc cũng vui
 
 ![library view with work](./library-2.jpg)
+
+Ngoài ra mình được nghe nói là phía sau lưng trường có quán bida, tra bản đồ thì có *"Câu lạc bộ Bida Giang Đen"*. Cho đến khi mình với thg Minh đi ra sau trường và kiếm nó, lẽ ra là đell phải, quán đó là quán cũ vcl, hợp nhất với *"Cafe bất động sản Mai Giang rồi"*
+
+![google map](./google-maps-bida.png)
+
+Đcm đi bộ dài vcl, đi một vòng xuống Giang đen xong ngược lên N1 để đến Mai Giang. Lúc đến thì trời chiều rồi nên mình với Minh đi về lại ktx, trên đường về thì gặp thg Phúc, cũng làm quen trước qua group mes kia, xong rồi nói chuyện một hồi mới biết 3 thg sẽ học chung lớp tiếng đức, ảo vcl.
