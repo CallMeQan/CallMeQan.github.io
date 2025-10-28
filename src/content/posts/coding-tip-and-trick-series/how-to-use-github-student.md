@@ -1,11 +1,12 @@
 ---
 title: Làm sao để tận dụng gói Github Student tối đa?
 published: 2025-08-05
+updated: 2025-10-27
 description: 'Đăng ký github student pack đi!'
 image: ''
 tags: [github, coding, life]
 category: 'Coding'
-draft: false 
+draft: false
 lang: 'vn'
 ---
 
@@ -15,7 +16,9 @@ Với việc bạn đã bước vào năm nhất đại học, đặc biệt là
 
 ## Thông tin chung
 
-Gói [Github Student Developer Pack](https://education.github.com/pack) được lần đầu giới thiệu vào tháng 8 năm 2014, theo như [copilot trả lời](./github_history_by_copilot_1.png).
+Gói [Github Student Developer Pack](https://education.github.com/pack) được lần đầu giới thiệu vào tháng 8 năm 2014, theo như copilot trả lời.
+
+![copilot trả lời](./github_history_by_copilot_1.png)
 
 Trong nhiều năm nay, Github đã liên tục cập nhật thêm nhiều nhà tài trợ mới, nhiều công cụ và tài liệu mới và hay cho các bạn sinh viên. Nổi bật nhất kể đến là JetBrains, Namecheap (đăng ký tên miền) hay mới nhất là truy cập vào Github Copilot hoàn toàn miễn phí với các model mạnh như GPT-4.1, Gemini 2.5 Pro, Claude 3.5-Pro.
 
