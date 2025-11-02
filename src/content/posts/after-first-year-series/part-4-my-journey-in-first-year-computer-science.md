@@ -1,6 +1,7 @@
 ---
 title: Phần 4 - Hành trình học tập trong năm 1
 published: 2025-09-03
+updated: 2025-10-30
 description: 'Chỉ nói về học tập, mấy thứ khác nói ở bài khác'
 image: ''
 tags: [university, coding]
@@ -8,6 +9,8 @@ category: 'University'
 draft: false 
 lang: 'vn'
 ---
+
+Bài này chỉ nói về các môn học và đánh giá nó!
 
 ## Lớp tiếng đức chết tiệt
 
@@ -18,6 +21,8 @@ Sang đến German 2 thì ôn thêm speaking, bằng cách nào đó mình lại
 Đến German 3 thì không có thi speaking nhưng mà mình vẫn bị học lửng lửng, suýt thì rớt German 3 với điểm 5.1đ
 
 Về đến hè thì ta có lớp German 4, học online 5 buổi một tuần nên rush nhanh vcl. Mới đấy đã 1 tháng trôi qua và sắp phải thi German 4 đầu tháng 9.
+
+Học thầy Beck là auto chấp nửa môn
 
 ## Các môn Academic English
 

